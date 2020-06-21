@@ -6,6 +6,11 @@ queries to gracefully degrade their site as the window size is reduced.
 Our cloned website can be viewed [here](https://igakigongo.github.io/The-Next-Web/). Kindly note that only changes pushed to the
 [master branch](https://github.com/igakigongo/The-Next-Web/tree/master) contribute towards the deployed site on github.io.
 
+
+![Screenshot from 2020-06-21 19-11-32](https://user-images.githubusercontent.com/46329537/85231936-47b9b880-b3f3-11ea-80c3-a0cb2854d842.png)
+
+
+
 ### Design Decisions
 For each resolution we decided to save the files in a dedicated directory, why? In order to have the smaller screen devices load extremely 
 small css files since we realized that some of the large display styles did not apply to the small devices.
@@ -63,3 +68,46 @@ The alternative without bundling would look like this
   <link rel="stylesheet" media="screen and (max-width: 575.98px)" href="./assets/css/_576px/apps-gear-tech.css" />
   <link rel="stylesheet" media="screen and (max-width: 575.98px)" href="./assets/css/_576px/footer.css" />
 ```
+
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML,
+- CSS,
+
+## Live Demo
+
+[Live Demo Link](https://igakigongo.github.io/The-Next-Web/)
+
+## Getting Started
+
+Clone the repository with `git@github.com:uche-inyama/catalogue_of_receipe.git` to get a local copy.
+
+To get the local copy up and running follow these simple example steps.
+
+
+## Author
+
+👤 **Inyama, Uchechukwu Henry**
+
+- Github: [@githubhandle](https://github.com/uche-inyama)
+- Twitter: [@twitterhandle](https://twitter.com/euuoc)
+- Linkedin: [linkedin](https://www.linkedin.com/in/uchechukwu-inyama-b3429a105/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [thenextweb](https://thenextweb.com/) 
+
+## 📝 License
+
+This project is MIT licensed.
