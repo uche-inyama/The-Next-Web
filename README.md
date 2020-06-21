@@ -75,17 +75,11 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML,
-- CSS,
+- CSS
 
 ## Live Demo
 
 [Live Demo Link](https://igakigongo.github.io/The-Next-Web/)
-
-## Getting Started
-
-Clone the repository with `git@github.com:uche-inyama/catalogue_of_receipe.git` to get a local copy.
-
-To get the local copy up and running follow these simple example steps.
 
 
 ## Author
