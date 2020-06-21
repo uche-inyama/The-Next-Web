@@ -85,6 +85,7 @@ Additional description about the project and its features.
 ## Author
 
 👤 **Inyama, Uchechukwu Henry**
+👤 **Edward Igakigongo**
 
 - Github: [@githubhandle](https://github.com/uche-inyama)
 - Twitter: [@twitterhandle](https://twitter.com/euuoc)
