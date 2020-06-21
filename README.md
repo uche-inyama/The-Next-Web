@@ -86,11 +86,12 @@ Additional description about the project and its features.
 
 👤 **Inyama, Uchechukwu Henry**
 
-👤 **Edward Igakigongo**
 
 - Github: [@githubhandle](https://github.com/uche-inyama)
 - Twitter: [@twitterhandle](https://twitter.com/euuoc)
 - Linkedin: [linkedin](https://www.linkedin.com/in/uchechukwu-inyama-b3429a105/)
+
+👤 **Edward Igakigongo**
 
 ## 🤝 Contributing
 
