@@ -1,4 +1,4 @@
-## Introduction
+# The Next Web
 
 In this project, we got the chance to build a responsive website. Cloning [The Next Web](https://thenextweb.com), a tech-focused magazine which uses media 
 queries to gracefully degrade their site as the window size is reduced.
